@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Conecta",
+    "slug": "conecta",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "conecta",
+    "userInterfaceStyle": "dark",
+    "plugins": [
+      "expo-router"
+    ],
+    "android": {
+      "package": "com.conecta.app"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static"
+    }
+  }
+}
